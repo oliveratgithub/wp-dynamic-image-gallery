@@ -17,5 +17,5 @@ Once activated, you can use the `Shortcode`-block with the following contents in
 You can customize the output of the shortcode by adding parameters to the shortcode:
 
 ```
-[show_images limit="10" size="thumbnail"]
+[show_images limit="10" size="thumbnail" link="false" random="true"]
 ```
